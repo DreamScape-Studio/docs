@@ -1,5 +1,4 @@
 # DreamScape Privacy Policy
-Effective Date: March 7, 2024
 
 **Introduction**
 This Privacy Policy describes how DreamScape collects, uses, and discloses your information when you interact with our DreamScape Discord bot.
